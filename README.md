@@ -6,7 +6,7 @@ This application allows users to upload a CSV dataset and perform various basic 
 
 ## 🚀 Live Demo
 
-Coming Soon...
+https://sandeep99-data-analysis.streamlit.app/
 
 ## 🛠️ Technologies Used
 
