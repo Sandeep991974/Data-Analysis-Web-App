@@ -1,0 +1,8 @@
+streamlit
+pandas
+seaborn
+
+venv/
+.venv/
+__pycache__/
+*.pyc
